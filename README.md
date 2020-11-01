@@ -25,4 +25,4 @@ Results
 
 <img src="pics/final_cartpole.PNG" width="200" height="150" alt="dbar"/><img src="pics/final_s15.PNG" width="200" height="150" alt="t2d1"/><img src="pics/final_fish.PNG" width="200" height="150" alt="arm"/><img src="pics/final_t2d1.PNG" width="200" height="150" alt="t1d1"/>
 
-<img src="pics/msmtnoise_cartpole.PNG" width="200" height="130" alt="dbar"/><img src="pics/msmtnoise_s15.PNG" width="200" height="130" alt="t2d1"/><img src="pics/msmtnoise_fish.PNG" width="200" height="130" alt="arm"/><img src="pics/msmtnoise_t2d1.PNG" width="200" height="130" alt="t1d1"/>
+<img src="pics/msmtnoise_cartpole.png" width="200" height="130" alt="dbar"/><img src="pics/msmtnoise_s15.png" width="200" height="130" alt="t2d1"/><img src="pics/msmtnoise_fish.png" width="200" height="130" alt="arm"/><img src="pics/msmtnoise_t2d1.png" width="200" height="130" alt="t1d1"/>
