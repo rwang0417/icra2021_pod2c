@@ -11,8 +11,7 @@ The algorithm has three steps:
 
 
 Requirements
-- Windows x64
-- Matlab 2018 and later
+- Matlab 2018 or later
 - MuJoCo 200 Windows x64 version
 
 Algorithm implementation
